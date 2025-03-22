@@ -1,0 +1,28 @@
+main {
+    max-width: 1200px; /* Adjust as needed */
+    margin: 0 auto; /* Center the main content */
+}
+aside {
+    width: 300px; /* Adjust as needed */
+    margin: 20px; /* Adjust as needed */
+    border: 1px solid #ccc; /* Example border */
+    padding: 10px; /* Adjust as needed */
+    background-color: #f9f9f9; /* Example background color */
+    color: #333; /* Example text color */
+}
+aside img {
+    width: 200px;
+    height: auto; /* Maintain aspect ratio */
+}
+main img {
+    width: 150px;
+    height: auto; /* Maintain aspect ratio */
+}
+p {
+    padding: 0; /* No units needed for zero */
+}
+ooter {
+    margin-top: 20px; /* Adjust as needed */
+    border-top: 1px solid #ccc; /* Example border */
+    text-align: center; /* Center the text */
+}
